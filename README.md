@@ -17,3 +17,6 @@ node peer.js friend me
 ```
 ## Demo
 ![Alt Text](demo.gif)
+
+## Reference
+* [Mathias-buus](https://www.elastic.co/videos/how-to-write-a-p2p-chat-app-in-nodejs-by-mathias-buus)
