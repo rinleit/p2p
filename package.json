@@ -1,0 +1,29 @@
+{
+  "name": "p2p",
+  "version": "1.0.0",
+  "description": "Chat Peer to Peer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinleit/p2p.git"
+  },
+  "keywords": [
+    "peer2peer"
+  ],
+  "author": "rinle.it@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinleit/p2p/issues"
+  },
+  "homepage": "https://github.com/rinleit/p2p#readme",
+  "dependencies": {
+    "duplex-json-stream": "^1.0.1",
+    "fully-connected-topology": "^1.1.1",
+    "hash-to-port": "^1.0.0",
+    "register-multicast-dns": "^1.1.0",
+    "stream-set": "^1.1.0"
+  }
+}
